@@ -1,6 +1,9 @@
-### Hi  👋
+### Hi, I'm Hyun Joon !!  👋 
+
+
 <a href="https://ks12b0000.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ks12b0000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ks12b0000/ks12b0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
