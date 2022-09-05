@@ -2,7 +2,6 @@
 <div align="center">
  SNS List<br><br>
 <a href="https://ks12b0000.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.instagram.com/park._h_.j" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ks12b0000@gmail.com-E4405F?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
 
