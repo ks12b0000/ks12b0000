@@ -1,6 +1,5 @@
 ### Hi  👋
-
-<a href="https://ks12b0000.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://ks12b0000.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 <!--
 **ks12b0000/ks12b0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
