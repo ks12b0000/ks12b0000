@@ -21,6 +21,8 @@ Back-end <br><br>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
+<br><br>
+
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ks12b0000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
